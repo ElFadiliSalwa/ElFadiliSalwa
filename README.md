@@ -1,4 +1,4 @@
-# Hi there 👋 I'm ElFadiliSalwa!
+# Hi there 👋 I'm ElFadiliSalwa! | DATA SCIENCE STUDENT📊
 
 Welcome to my GitHub profile! I'm a passionate individual focused on leveraging data to derive insights, build intelligent solutions, and create impactful visualizations.
 
